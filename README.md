@@ -6,7 +6,7 @@ This project is a Google Sheets automation bot that retrieves real-time stock pr
 
 -- Fetches real-time stock prices using the Alpha Vantage API
 
--- Retrieves financial news headlines using NewsAPI
+-- Retrieves financial news headlines using NewsAPI (currently under construction)
 
 -- Shows price movement direction by comparing current and previously stored prices
 
